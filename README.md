@@ -1,6 +1,9 @@
 # Machine-Learning-Nodes
 本文为《机器学习》西瓜书的学习笔记。自己在秋招复习时对书中的很多公式及内容难以理解，因此查阅了很多优秀博客对内容做了更便于理解的扩展，并对本书相关数学公式做了推导。笔记内容主要参照了《统计学习方法》-李航和很多优秀博客内容，在笔记中已一一记录，感谢前辈们的无私奉献！！！
 
+###注：
+由于开始是在本地typora记录的，图片为本地地址；另外github数学公式显示还存在问题，因此先上传PDF版本，markdown文件后续整理后再上传。
+
 ### 目录
 - 第2章 [模型评估与选择](https://github.com/CallmeZhouxiaolun/Machine-Learning-Nodes/blob/main/ch02/ch02%20%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E4%B8%8E%E9%80%89%E6%8B%A9_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 - 第3章 [线性模型](https://github.com/CallmeZhouxiaolun/Machine-Learning-Nodes/blob/main/ch03/ch03%20%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf)
